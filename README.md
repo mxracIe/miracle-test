@@ -1,2 +1,2 @@
 # miracle-test
-This is a repo for testing Github activities!
+This is a repo for testing GitHub activities!
